@@ -1,3 +1,5 @@
+The paper related to this code is accepted by CVPR workshop "Synthetic Data for Computer Vision - CVPR 2025", however, since the camera ready version is not sent yet, we could not publish the code and the name of the paper yet.
+
 ReadMe for EpochLoss Data Minimization Code
 
 The accompanying code is split into 3 main parts:
